@@ -1,0 +1,13 @@
+/home/yu/Downloads/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -S /home/yu/Git_repos/fiery_post_process -B /home/yu/Git_repos/fiery_post_process/cmake-build-debug
+-- Found PythonInterp: /usr/bin/python3.8 (found version "3.8.10") 
+-- Caffe2: CUDA detected: 11.1
+-- Caffe2: CUDA nvcc is: /usr/local/cuda/bin/nvcc
+-- Caffe2: CUDA toolkit directory: /usr/local/cuda
+-- Caffe2: Header version is: 11.1
+-- Found cuDNN: v8.2.4  (include: /usr/include, library: /usr/lib/x86_64-linux-gnu/libcudnn.so)
+-- /usr/local/cuda/lib64/libnvrtc.so shorthash is 1f6b333a
+-- Autodetected CUDA architecture(s):  8.6
+-- Added CUDA NVCC flags for: -gencode;arch=compute_86,code=sm_86
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yu/Git_repos/fiery_post_process/cmake-build-debug

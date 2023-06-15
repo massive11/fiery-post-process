@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/HelloWorld.dir/fiery_process.cpp.o  -o HelloWorld 

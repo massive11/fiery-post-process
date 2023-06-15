@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kismet/cppProjects/fiery_post_process/build",
+  "command": "/usr/bin/g++  -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/kismet/cppProjects/fiery_post_process -I/home/kismet/cppProjects/fiery_post_process/.. -isystem /home/kismet/libtorch/libtorch/include -isystem /home/kismet/libtorch/libtorch/include/torch/csrc/api/include  -g   -D_GLIBCXX_USE_CXX11_ABI=1 -std=gnu++14 -o CMakeFiles/fiery_post_process.dir/Hungarian.cpp.o -c /home/kismet/cppProjects/fiery_post_process/Hungarian.cpp",
+  "file": "/home/kismet/cppProjects/fiery_post_process/Hungarian.cpp"
+},
+{
+  "directory": "/home/kismet/cppProjects/fiery_post_process/build",
+  "command": "/usr/bin/g++  -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/kismet/cppProjects/fiery_post_process -I/home/kismet/cppProjects/fiery_post_process/.. -isystem /home/kismet/libtorch/libtorch/include -isystem /home/kismet/libtorch/libtorch/include/torch/csrc/api/include  -g   -D_GLIBCXX_USE_CXX11_ABI=1 -std=gnu++14 -o CMakeFiles/fiery_post_process.dir/fiery_process.cpp.o -c /home/kismet/cppProjects/fiery_post_process/fiery_process.cpp",
+  "file": "/home/kismet/cppProjects/fiery_post_process/fiery_process.cpp"
+},
+{
+  "directory": "/home/kismet/cppProjects/fiery_post_process/build",
+  "command": "/usr/bin/g++  -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/kismet/cppProjects/fiery_post_process -I/home/kismet/cppProjects/fiery_post_process/.. -isystem /home/kismet/libtorch/libtorch/include -isystem /home/kismet/libtorch/libtorch/include/torch/csrc/api/include  -g   -D_GLIBCXX_USE_CXX11_ABI=1 -std=gnu++14 -o CMakeFiles/fiery_post_process.dir/main.cpp.o -c /home/kismet/cppProjects/fiery_post_process/main.cpp",
+  "file": "/home/kismet/cppProjects/fiery_post_process/main.cpp"
+}
+]
